@@ -4,10 +4,6 @@ title: Split.bee
 description: >- # this means to ignore newlines until "baseurl:"
   Split expenses with friends and loved ones 🐝 💜
 permalink: /splitbee/index
-
-email: chad2408m2@gmail.com
-linkedin_username: chad2408m
-github_username: chad2408m
 ---
 
 ![Logo](/assets/splitbee-logo.png)

@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Privacy Policy
 permalink: /splitbee/privacy-policy/
 ---
-
-## Privacy Policy
 
 <span style="color: #888888;">_Last updated: April 27, 2025_</span>
 
